@@ -1,7 +1,3 @@
-
-text/x-generic blog-page.php
-PHP script text
-
 <?php /*
 Template Name: Blog Page Template
 */ ?>
