@@ -1,7 +1,3 @@
-
-text/x-generic category.php
-PHP script text
-
 <?php /*
 Template Name: Custom Blog Template
 */ ?>
